@@ -11,12 +11,7 @@ Normal Text
 1. Number List
 2. Number list continues
 
-a. Character List
-
-
-i. Roman List
-ii. 
-
 - [x] Test Brackets 
 - [ ] Check box text
-[google](https://news.google.com)  
+
+[Google News Link](https://news.google.com)  
